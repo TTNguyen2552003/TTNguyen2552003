@@ -4,7 +4,7 @@
 
 - ### If you can, connect me on the other social media networks:
 <p>
-  <a href="www.linkedin.com/in/ttnguyen2552003">
+  <a href="https://www.linkedin.com/in/ttnguyen2552003">
     <img src="https://github.com/TTNguyen2552003/svg-repository/blob/main/LinkedIn.svg" alt="LinkedIn" style="margin-right: 40px; width: 10%; height: 10%; ">
   </a>
   <a href="https://www.behance.net/ttnguyen2552003">
