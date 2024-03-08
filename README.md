@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there
 
-<!--
-**TTNguyen2552003/TTNguyen2552003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- #####  Thanks for visiting my profile on GitHub 😍😍😍👋👋👋💀💀💀!!!
 
-Here are some ideas to get you started:
+- ##### If you can, connect me on the other social media networks:
+<p>
+  <a href="www.linkedin.com/in/ttnguyen2552003">
+    <img src="https://github.com/TTNguyen2552003/svg-repository/blob/main/LinkedIn.svg" alt="LinkedIn" style="margin-right: 20px; margin-left:40px; width: 10%; height: 10%; ">
+  </a>
+  <a href="https://www.behance.net/ttnguyen2552003">
+    <img src="https://github.com/TTNguyen2552003/svg-repository/blob/main/behance.svg" alt="Behance"  style="width: 10%; height: 10%;">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- #### Message me:
+<p>
+  <a href="https://wa.link/am9f4t">
+    <img src="https://github.com/TTNguyen2552003/svg-repository/blob/main/Whatsapp.svg" alt="Whatsapp" style="margin-right: 40px; margin-left:40px; width: 10%; height: 10%; ">
+  </a>
+  <a href="https://t.me/TTNguyen2552003">
+    <img src="https://github.com/TTNguyen2552003/svg-repository/blob/main/Telegram.svg" alt="Telegram"  style="width: 10%; height: 10%;">
+  </a>
+</p>
